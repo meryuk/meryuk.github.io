@@ -1,5 +1,5 @@
 # My personal website
-:point_right: [meryuk.github.io](meryuk.github.io) :point_left:
+:point_right: [meryuk.github.io](https://meryuk.github.io/) :point_left:
 
 ####License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
